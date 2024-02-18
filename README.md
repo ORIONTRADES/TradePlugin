@@ -1,2 +1,2 @@
 # TradePlugin
-Safe Hone for TradePlugin latest version
+Home for TradePlugin releases
