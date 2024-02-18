@@ -1,2 +1,2 @@
 # TradePlugin
-Safe Space for TradePlugin releases
+Safe Hone for TradePlugin latest version
